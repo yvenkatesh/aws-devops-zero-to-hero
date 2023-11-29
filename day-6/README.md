@@ -1,3 +1,5 @@
 # Route53
 
-TODO
+DNS as Service -> Domian Name System 
+
+
